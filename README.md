@@ -1,7 +1,7 @@
-# Unit 11—Risky Business
+# Risky Business
 *by Arzu Isik Topbas*
 
-In this assignment, I built and evaluated several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem , so I used different techniques for training and evaluating models with imbalanced classes. I used the imbalanced-learn and Scikit-learn libraries to build and evaluate models using resampling and ensembling learning techniques.
+I built and evaluated several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem , so I used different techniques for training and evaluating models with imbalanced classes. I used the imbalanced-learn and Scikit-learn libraries to build and evaluate models using resampling and ensembling learning techniques.
 
 ---
 
